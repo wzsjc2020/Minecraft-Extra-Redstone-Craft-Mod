@@ -2,7 +2,7 @@
 
 ### Installation Requirements
 
-![](636829723898798601.png)![](GitHub_logo.png)
+![](636829723898798601.png)![](download_from_github.png)
 
 Fabric API is Required
 
