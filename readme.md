@@ -1,4 +1,4 @@
-![](C:\Users\22919\Desktop\fabric\courseforge\2023-01-15_15.01.13.png)
+![](2023-01-15_15.01.13.png)
 
 ### Installation Requirements
 
