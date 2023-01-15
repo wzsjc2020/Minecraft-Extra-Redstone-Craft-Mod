@@ -2,7 +2,7 @@
 
 ### Installation Requirements
 
-![](636829723898798601.png =100x100)
+![](636829723898798601.png)
 
 Fabric API is Required
 
