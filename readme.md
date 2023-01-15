@@ -1,18 +1,20 @@
-![](2023-01-15_15.01.13.png)
+![](C:\Users\22919\Desktop\fabric\courseforge\2023-01-15_15.01.13.png)
 
 ### Installation Requirements
 
-![](636829723898798601.png)
+<img src="C:\Users\22919\Desktop\fabric\courseforge\636829723898798601.png"  />![](C:\Users\22919\Desktop\fabric\courseforge\GitHub_logo.png)
 
 Fabric API is Required
 
-**Important**: In order to be able to see all recipes required in Extra Redstone Craft Mod, consider installing [JEI](https://www.curseforge.com/minecraft/mc-mods/jei). The vanilla recipe book will not be able to guide you through the experience by itself.
+DOWNLOAD ***GitHub Full Release Download Link*** BELOW(Including REI, Fabric API, Mod Texture Addon)
+
+**Important**: In order to be able to see all recipes required in Extra Redstone Craft Mod, consider installing  REI. The vanilla recipe book will not be able to guide you through the experience by itself.
 
 [Fabric API Download Link](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
-[JEI Download Link](https://www.curseforge.com/minecraft/mc-mods/jei)
+[REI Download Link]([Roughly Enough Items Fabric... - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items))
 
-
+[GitHub Full Release Download Link](https://github.com/wzsjc2020/Minecraft-Extra-Redstone-Craft-Mod/releases/tag/17.0.5Release)
 
 ### About
 
