@@ -2,7 +2,7 @@
 
 ### Installation Requirements
 
-<img src="C:\Users\22919\Desktop\fabric\courseforge\636829723898798601.png" style="zoom:50%;" />
+<img src="636829723898798601.png" style="zoom:50%;" />
 
 Fabric API is Required
 
