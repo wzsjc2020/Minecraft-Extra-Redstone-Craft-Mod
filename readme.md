@@ -2,7 +2,7 @@
 
 ### Installation Requirements
 
-<img src="636829723898798601.png" style="zoom:50%;" />
+![](636829723898798601.png =100x100)
 
 Fabric API is Required
 
