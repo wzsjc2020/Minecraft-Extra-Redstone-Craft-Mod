@@ -1,10 +1,10 @@
-![](C:\Users\22919\Desktop\fabric\courseforge\img\img1.png)
+![](img\img1.png)
 
 ## Installation Requirements
 
 ### API
 
-![](C:\Users\22919\Desktop\fabric\courseforge\icon\fabric_api.png)
+![](icon\fabric_api.png)
 
 Fabric API is Required
 
@@ -12,7 +12,7 @@ Fabric API is Required
 
 ### Texture 
 
-![](C:\Users\22919\Desktop\fabric\courseforge\icon\extracraft_watch_dog2.png)![](C:\Users\22919\Desktop\fabric\courseforge\icon\xekr_redstone_display.png)
+![](icon/extracraft_watch_dog2.png)![](icon\xekr_redstone_display.png)
 
 Texture is Optional, but Strongly recommend. There are two texture packs for this mod. One changes some redstone componets' apperence similar to Wacth Dog 2. One allows you see actual redstone power.
 
@@ -22,7 +22,7 @@ Texture is Optional, but Strongly recommend. There are two texture packs for thi
 
 ### REI
 
-![](C:\Users\22919\Desktop\fabric\courseforge\icon\rei.png)
+![](icon\rei.png)
 
 **Important**: In order to be able to see all recipes required in Extra Redstone Craft Mod, consider installing  REI. The vanilla recipe book will not be able to guide you through the experience by itself.
 
