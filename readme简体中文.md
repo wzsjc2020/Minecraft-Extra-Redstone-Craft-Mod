@@ -1,10 +1,10 @@
-![](C:\Users\22919\Desktop\fabric\courseforge\img\img1.png)
+![](img/img1.png)
 
 ## 安装
 
 ### API
 
-![](C:\Users\22919\Desktop\fabric\courseforge\icon\fabric_api.png)
+![](icon/fabric_api.png)
 
 需要安装Fabric API
 
@@ -12,7 +12,7 @@
 
 ### 材质 
 
-![](C:\Users\22919\Desktop\fabric\courseforge\icon\extracraft_watch_dog2.png)![](C:\Users\22919\Desktop\fabric\courseforge\icon\xekr_redstone_display.png)
+![](icon/extracraft_watch_dog2.png)![](icon/xekr_redstone_display.png)
 
 材质可选择安装，但是建议一起安装。这个模组一共有两个材质，其中一个材质包改变了部分红石元件的外观，使其拥有和看门狗2类似的材质；另一个材质包让你能更容易看清红石元件的强度。
 
@@ -22,7 +22,7 @@
 
 ### REI
 
-![](C:\Users\22919\Desktop\fabric\courseforge\icon\rei.png)
+![](icon/rei.png)
 
 **重要提示：**使用REI可以查看所有模组物品的合成配方，建议安装REI，因为原版的配方书并不会解锁模组内的合成配方。
 
